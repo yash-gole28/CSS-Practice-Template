@@ -1,0 +1,15 @@
+@media screen and (max-width:500px) {
+    #head-top-right{
+        display: none;
+    }
+    .head-top-left{
+        width: 100%;
+        padding: 0px 20px;
+    }
+    #head-left{
+        margin-top: 30%;
+        height: 100%;
+        width: 100%;
+    }
+    
+}

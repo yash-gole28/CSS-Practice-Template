@@ -1,0 +1,32 @@
+@media screen and (max-width: 766px) {
+    /* #head{
+        margin-top: 50px;
+    } */
+    #head-left{
+        margin-top: 20%;
+        height: 100%;
+        width: 100%;
+    }
+    #head-right{
+        height: 100%;
+        width: 100%;
+    }
+    #part-left{
+        width: 100%;
+        height: 100%;
+    }
+    #part-right{
+        width: 100%;
+        height: auto;
+    }
+    .part-3-left{
+        width: 100%;
+        height: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .part-3-right{
+        width: 100%;
+        
+    }
+}
